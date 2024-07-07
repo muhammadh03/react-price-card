@@ -16,10 +16,6 @@ const cardDetails = [
     tik6: <i className="fa fa-times" aria-hidden="true" style={{color: '#9e9b9b'}}> Dedicated Phone Support</i>,
     tik7: <i className="fa fa-times" aria-hidden="true" style={{color: '#9e9b9b'}}> Free Subdomain</i>,
     tik8: <i className="fa fa-times" aria-hidden="true" style={{color: '#9e9b9b'}}> Monthly Status Reports</i>
-    // privateProject: 'Unlimited Private Projects',
-    // support: 'Dedicated Phone Support',
-    // subdomain: 'Free Subdomain',
-    // report: 'Monthly Status Reports'
   },
   {
     version: "PLUS", 
